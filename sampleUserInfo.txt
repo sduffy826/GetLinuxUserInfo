@@ -1,0 +1,22 @@
+# Format of file is:
+# Username:TypeOfUser:UserCanLogin:Owner:IsPrivileged:Comments
+xmeta:OS:N:John Doe:N:Infosphere Id (Meta Id)
+dsodb:OS:N:John Doe:N:Infosphere ID (Operation)
+dsadm:OS:N:John Doe:N:Infosphere ID (Datastage)
+xmetasr:OS:N:John Doe:N:Infosphere ID (Meta Staging)
+iauser:OS:N:John Doe:N:Infosphere ID (Analyzer)
+srduser:OS:N:John Doe:N:Infosphere ID (Standard Rule Designer)
+iisgw:OS:N:John Doe:N:Infosphere ID (IIS id)
+db2fenc1:OS:N:John Doe:N:DB2 Fence ID
+db2inst1:OS:N:John Doe:Y:DB2 Instance ID
+sduffy:OS:Y:Sean Duffy:Y:Support ID
+danaher:OS:Y:Dan Aher:Y:Support ID
+rsitadm:OS:Y:John Doe:Y:Support ID
+#
+# System ids
+nfsnobody:OS:n/a:CIO Cloud:n/a:Cloud managed ID
+#
+# Cloud defined id's
+cioadmin:OS:n/a:CIO Cloud:n/a:Cloud managed ID
+dstadmin:OS:n/a:CIO Cloud:n/a:Cloud managed ID
+pimadmin:OS:n/a:CIO Cloud:n/a:Cloud managed ID

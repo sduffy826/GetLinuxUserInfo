@@ -1,0 +1,7 @@
+# Application ids
+danaher,Infosphere,Y,Dan Aher,Y,User administration id
+sduffy,Infosphere,Y,Sean Duffy,Y,Configure server tasks
+isadmin,Infosphere,Y,n/a,Y,Installation id
+isappid,Infosphere,Y,n/a,Y,Internal application id to start/stop server tasks
+isdadm,Infosphere,Y,n/a,N,Internal application id to run ISD services
+isdwebusr,Infosphere,Y,n/a,N,Web service application id
